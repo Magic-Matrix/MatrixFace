@@ -1,0 +1,16 @@
+*~
+__pycache__
+
+/.vscode
+/work_dir
+
+/train_log
+
+/*.jpg
+/*.png
+/*.bin
+/*.npy
+/*.pth
+/*.pt
+/*.onnx
+/*.mp4
